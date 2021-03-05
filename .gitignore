@@ -89,6 +89,4 @@ sw.*
 # Vim swap files
 *.swp
 
-jsconfig.json
-
-yarn.lock
+*.lock
