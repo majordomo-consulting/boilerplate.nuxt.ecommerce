@@ -4,6 +4,8 @@ This PWA (Progressive Web Application) is built with NUXT (Vue.js), Bulma and Sn
 
 For a simpler website, another option is [this html boilerplate](https://github.com/majordomo-consulting/boilerplate.html.snipcart) which can also be deployed freely to Netlify, has a simpler folder structure, and may be easier to customize.
 
+In either case, the annual cost for a small-medium sized business to run this application, with a custom domain, should be under $25USD.
+
 ## ***QUICK START***
 
 1. Create a Netlify account
