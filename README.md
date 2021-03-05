@@ -8,8 +8,8 @@ In either case, the annual cost for a small-medium sized business to run this ap
 
 ## ***QUICK START***
 
-1. Create a Netlify account
-2. Create a GitHub account
+1. Create a [Netlify](https://netlify.com) account
+2. Create a [GitHub](https://github.com) account
 3. Fork this repository
 4. in Netlify click "New site from Git", choose your repo, then click "Deploy"
 
