@@ -1,7 +1,8 @@
 # ecommerce
 
-1. Create a Netlify Account
-2. Create a GitHub Account
+1. Create a Netlify account
+2. Create a GitHub account
+3. Create a Snipcart account
 3. Fork this repository
 4. Netlify Dashboard:
 - New site from Git - select forked repository - Deploy
@@ -16,6 +17,7 @@
 - /header - change company name
 - /logo - link to your logo
 - /privacy - copy [privacy policy](https://www.shopify.ca/tools/policy-generator) here
+- nuxt.config.js - copy Snipcart Key within quotation marks
 
 Technologies:
 

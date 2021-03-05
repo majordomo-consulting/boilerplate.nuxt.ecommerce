@@ -10,7 +10,7 @@
                                     <h6>About Us</h6>
                                     <h2 class="pl-5">Something Fantastic</h2>
                                 </div>
-                                <p>Expialadocious might be the greatest thing since the printing press or the discovery of fire.  Built with NUXT (Vue.js), Bulma, Animate.css and Snipcart. You can download and feel free to use this layout for your  business. You ARE allowed to use this template for commercial purposes WITHOUT any accreditation. </p>
+                                <p>Expialadocious might be the greatest thing since the printing press or the discovery of fire.  Built with NUXT (Vue.js), Bulma and Snipcart. You can download and feel free to use this layout for your  business. You ARE allowed to use this template for commercial purposes WITHOUT any accreditation. </p>
                                 <div>
                                     <div>
                                         <img src="assets/images/about-thumb-01.jpg" alt="">
