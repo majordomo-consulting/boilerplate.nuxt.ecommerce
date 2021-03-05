@@ -2,7 +2,7 @@
 
 This PWA (Progressive Web Application) is built with NUXT (Vue.js), Bulma and Snipcart.  It is an SPA (Single Page Application) built for JAMStack hosting.  The instructions below will detail how to customize, then deploy the site to Netlify.
 
-For a simpler website, another option is the [boilerplate.html.snipcart](https://github.com/majordomo-consulting/boilerplate.html.snipcart) can also be deployed freely to Netlify, has a simpler folder structure, and may be easier to customize.
+For a simpler website, another option is [this html boilerplate](https://github.com/majordomo-consulting/boilerplate.html.snipcart) can also be deployed freely to Netlify, has a simpler folder structure, and may be easier to customize.
 
 ## ***QUICK START***
 
