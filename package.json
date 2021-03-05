@@ -16,10 +16,8 @@
     "nuxt-buefy": "^0.4.4"
   },
   "devDependencies": {
-    "add": "^2.0.6",
     "fibers": "^5.0.0",
     "sass": "^1.32.8",
     "sass-loader": "10",
-    "yarn": "^1.22.10"
   }
 }
