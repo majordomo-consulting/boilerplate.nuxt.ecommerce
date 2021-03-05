@@ -51,8 +51,8 @@ Steps to creating [this website](https://getting-started-with-ecommerce.netlify.
 
 3. Netlify Dashboard:
 - New site from Git - select forked repository - Deploy
-- Site Settings - change Site Name
-
+- Site Settings - change Site Name (Button)
+- *optional* click on Domain Management in left-hand menu - Add custom domain (Button)
 
 ## Technologies:
 
