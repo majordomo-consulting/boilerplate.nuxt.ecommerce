@@ -21,36 +21,31 @@ Steps to creating [this website](https://getting-started-with-ecommerce.netlify.
 
 1. Create a [Netlify](https://netlify.com) account
 2. Create a [GitHub](https://github.com) account
-3. Create a [Snipcart](https://snipcart.com) account
-
+3. Create a [Snipcart](https://snipcart.com) account*
+* You do not need to enter your credit card details if only accepting in-person payments
 
 ### In Snipcart:
 
-You will need to create a Snipcart account (free). You do not need to enter your credit card details if only accepting in-person payments.
-
-1. After creating your account complete steps 1 & 2 in the Snipcart dashboard (Fill in your business information, configure your domains)
+1. After creating account complete steps 1 & 2 in the Snipcart dashboard (Fill in your business information, configure your domains)
 2. Configure the payment gateway (Deferred Payments) by clicking on the account profile icon on the top right
 3. At the bottom of the page, turn Deferred Payments to ON, then click 'CONFIGURE' - choose - 'Only allow deferred payments'
 5. Click on TAXES in the menu and CREATE NEW TAX - enter your details (e.g HST, CA, ON, 0.13)
 6. Click on Domains & URLs - the domain you put here MUST MATCH the location of the products folder - if it doesn't, YOUR CART WILL NOT WORK
-7. Go to API KEYS - COPY your PUBLIC TEST API KEY (the test key is all you will ever need if accepting in-person payments).
-8. Copy the key to the file:  nuxt.config.js in the Snipcart section (paste over existing key)
-
+7. Go to API KEYS - COPY your PUBLIC TEST API KEY (the test key is all you will ever need if accepting in-person payments) to your clipboard then proceed to the GitHub section.
 
 ### In GitHub:
 
 1. Fork this repository (top right button in GitHub)
 2. Edit these files:
-- /components:
-- /about - change titles and text
-- /carousel - change images
-- /catalogue - change products
-- /contact - enter contact information - change links
-- /footer - change company name
-- /header - change company name
-- /logo - link to your logo
-- /privacy - generate a [privacy policy](https://www.shopify.ca/tools/policy-generator) then paste it here
-- nuxt.config.js - copy Snipcart key within quotation marks
+- nuxt.config.js - paste the Snipcart API KEY into the `snipcart:` section - paste over the existing key
+- /components/about - change titles and text
+- /components/carousel - change images
+- /components/catalogue - change products
+- /components/contact - enter contact information - change links
+- /components/footer - change company name
+- /components/header - change company name
+- /components/logo - link to your logo
+- /components/privacy - generate a [privacy policy](https://www.shopify.ca/tools/policy-generator) then paste it here
 
 ### In Netlify:
 
