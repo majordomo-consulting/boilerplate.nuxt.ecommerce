@@ -8,6 +8,8 @@ In either case, the annual cost for a small-medium sized business to run this ap
 
 ## ***QUICK START***
 
+Steps to creating [this website](https://getting-started-with-ecommerce.netlify.app/) in under 5 minutes:
+
 1. Create a [Netlify](https://netlify.com) account
 2. Create a [GitHub](https://github.com) account
 3. Fork this repository (top right button in GitHub)
