@@ -37,10 +37,10 @@ Steps to creating [this website](https://getting-started-with-ecommerce.netlify.
 
 1. Fork this repository (top right button in GitHub)
 2. Edit these files:
-- nuxt.config.js - paste the Snipcart API KEY into the `snipcart:` section - paste over the existing key
-- /components/about - change titles and text
-- /components/carousel - change images
-- /components/catalogue
+- nuxt.config.js: paste the Snipcart API KEY into the `snipcart:` section (paste over the existing key)
+- /components/about: change titles and text
+- /components/carousel: change images
+- /components/catalogue:
 
 There are two arrays (one for each category).  Store products are at the bottom of this page and appear like so:
 
