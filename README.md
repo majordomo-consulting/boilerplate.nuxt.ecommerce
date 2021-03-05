@@ -1,9 +1,30 @@
 # ecommerce
 
+This PWA (Progressive Web Application) is built with NUXT (Vue.js), Bulma and Snipcart.  It is an SPA (Single Page Application) built for JAMStack hosting.  The instructions below will detail how to customize, then deploy the site to Netlify.
+
+For a simpler website, the [boilerplate.html.snipcart] can also be deployed freely to Netlify, has a simpler folder structure, and may be easier to customize.
+
+## ***QUICK START***
+
+1. Create a Netlify account
+2. Create a GitHub account
+3. Fork this repository
+4. in Netlify click "New site from Git", choose your repo, then click "Deploy"
+
+## Customization
+
+### First Steps:
+
 1. Create a Netlify account
 2. Create a GitHub account
 3. Create a Snipcart account
+
+### In GitHub:
+
 3. Fork this repository
+
+### In Netlify:
+
 4. Netlify Dashboard:
 - New site from Git - select forked repository - Deploy
 - Site Settings - change Site Name
