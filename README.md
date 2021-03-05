@@ -4,7 +4,7 @@ This PWA (Progressive Web Application) is built with NUXT (Vue.js), Bulma and Sn
 
 For a simpler website, another option is [this html boilerplate](https://github.com/majordomo-consulting/boilerplate.html.snipcart) which can also be deployed freely to Netlify, has a simpler folder structure, and may be easier to customize.
 
-In either case, the annual cost for a small-medium sized business to run this application, with a custom domain, should be under $25USD.
+In either case, the annual cost for a small-medium sized business to run this application, with a custom domain, should be under $25USD.  Free if you don't add a custom domain.
 
 ## ***QUICK START***
 
@@ -40,7 +40,22 @@ Steps to creating [this website](https://getting-started-with-ecommerce.netlify.
 - nuxt.config.js - paste the Snipcart API KEY into the `snipcart:` section - paste over the existing key
 - /components/about - change titles and text
 - /components/carousel - change images
-- /components/catalogue - change products
+- /components/catalogue
+
+There are two arrays (one for each category).  Store products are at the bottom of this page and appear like so:
+
+```
+          { 
+            id: 'first-product', 
+            title: 'first product', 
+            description: 'first product description', 
+            image: 'https://dummyimage.com/300x300/ccc/aaa', 
+            price: '4.99'
+          },
+```
+
+Copy and paste the block (include commas) as many times as needed.  These details are critical to proper functionality of the cart.
+
 - /components/contact - enter contact information - change links
 - /components/footer - change company name
 - /components/header - change company name
