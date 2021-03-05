@@ -5,14 +5,14 @@
                 <b-navbar-item href="/">
                     Home
                 </b-navbar-item>
-                <b-navbar-item href="#order">
+                <b-navbar-item href="/#order">
                     Order
                 </b-navbar-item>
                 <b-navbar-dropdown label="Info">
-                    <b-navbar-item href="#about">
+                    <b-navbar-item href="/#about">
                         About
                     </b-navbar-item>
-                    <b-navbar-item href="#contact">
+                    <b-navbar-item href="/#contact">
                         Contact
                     </b-navbar-item>
                     <b-navbar-item href="/privacy-policy">
