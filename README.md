@@ -69,6 +69,12 @@ Copy and paste the block (include commas) as many times as needed.  These detail
 - Site Settings - change Site Name (Button)
 - *optional* click on Domain Management in left-hand menu - Add custom domain (Button)
 
+## Advanced Customizations
+
+### Styles
+
+Styles are divided into two sheets - main.scss and default.css.  If modifying Bulma styles (see docs below), use main.scss.
+
 ## Technologies:
 
 Snipcart
