@@ -79,15 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 40px;
 }
 
-.section-heading h6:before {
-  width: 30px;
-  height: 1px;
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 8px;
-  background-color: #fb5849;
-}
+
 
 .section-heading h2 {
   line-height: 40px;

@@ -2,11 +2,8 @@
     <div>
         <ImageBanner />
         <About />
-        <SearchTag />
-        <SearchProducts />
         <Catalogue />
         <CatalogueCarousel />
-
     </div>
 </template>
 
@@ -17,9 +14,10 @@ import ImageBanner from '@/components/banner-image'
 import CatalogueCarousel from '@/components/catalogue-carousel'
 import SearchTag from '@/components/search-tags'
 import SearchProducts from '@/components/search-products'
-    export default {
-        components: {Catalogue,About,ImageBanner,CatalogueCarousel,SearchTag,SearchProducts}
-    }
+
+export default {
+    components: {Catalogue,About,ImageBanner,CatalogueCarousel,SearchTag,SearchProducts}
+}
 </script>
 
 <style lang="scss" scoped>
