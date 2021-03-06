@@ -40,9 +40,9 @@ Steps to creating [this website](https://getting-started-with-ecommerce.netlify.
 - nuxt.config.js: paste the Snipcart API KEY into the `snipcart:` section (paste over the existing key)
 - /components/about: change titles and text
 - /components/carousel: change images
-- /components/catalogue:
+- /store/index.js:
 
-There are two arrays (one for each category).  Store products are at the bottom of this page and appear like so:
+There are two arrays (one for each category). 
 
 ```
           { 
