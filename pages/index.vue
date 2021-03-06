@@ -3,7 +3,7 @@
     <Header />
     <section class="container">
       <About />
-      <Banner />
+      <Specials />
       <Catalogue />
       <Ribbon />
       <Contact />
@@ -13,14 +13,14 @@
 
 <script>
 import Header from '@/components/header';
-import Banner from '@/components/banner';
+import Specials from '@/components/specials';
 import Catalogue from '@/components/catalogue';
 import About from '@/components/about';
 import Contact from '@/components/contact';
 import Ribbon from '@/components/ribbon';
 
 export default {
-  components: {Header,Banner,Catalogue,About,Contact,Ribbon},
+  components: {Header,Specials,Catalogue,About,Contact,Ribbon},
 }
 </script>
 
