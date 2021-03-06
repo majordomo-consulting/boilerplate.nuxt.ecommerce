@@ -113,6 +113,9 @@ h1, h2, h3, h4, h5, h6 {
       font-size: 1.5rem;
       color: bisque;
   }
+  .product-align {
+    text-align:center;
+  }
 }
 
 @media screen and (min-width: 501px) {
@@ -129,5 +132,8 @@ h1, h2, h3, h4, h5, h6 {
   .site-tagline {
       font-size: 2rem;
       color: bisque;
+  }
+  .product-align {
+    text-align:left;
   }
 }
