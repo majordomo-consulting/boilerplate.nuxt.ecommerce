@@ -11,15 +11,15 @@
             <li v-for="product in this.$store.state.products" :key="product.id">
         <div class="columns is-centered is-vcentered">
             <div class="column is-one-quarter"></div>
-            <div class="column pl-5">
+            <div class="column pl-4">
             <div class="product">
                 <img class="image-rounded" :src="product.image" :alt="product.title">
-                <div class="product-name">{{ product.title }}</div>
+                <div class="has-text-weight-bold">{{ product.title }}</div>
                 <div class="product-description">{{ product.description }}</div>
-                <div class="product-price">${{ product.price }}</div>
             </div>
             </div>
             <div class="column pl-4">
+            <div class="is-size-2 has-text-success">${{ product.price }}</div>
             <b-button class="snipcart-add-item"
                 data-item-url="/products/"
                 :data-item-id="product.id"
@@ -44,12 +44,12 @@
             <div class="column pl-4">
             <div class="product">
                 <img class="image-rounded" :src="product.image" :alt="product.title">
-                <div class="product-name">{{ product.title }}</div>
+                <div class="has-text-weight-bold">{{ product.title }}</div>
                 <div class="product-description">{{ product.description }}</div>
-                <div class="product-price">${{ product.price }}</div>
             </div>
             </div>
             <div class="column pl-4">
+            <div class="is-size-2 has-text-success">${{ product.price }}</div>
             <b-button class="snipcart-add-item"
                 data-item-url="/products/"
                 :data-item-id="product.id"
