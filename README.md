@@ -89,4 +89,4 @@ Styles are divided into two sheets - main.scss and default.css.  If modifying Bu
 
 ## Updates:
 
-03.04.2021 - new [template](https://getting-started-with-ecommerce.netlify.app/homepage-ii)
+03.06.2021 - new [template](https://getting-started-with-ecommerce.netlify.app/homepage-ii)
