@@ -87,6 +87,8 @@ Styles are divided into two sheets - main.scss and default.css.  If modifying Bu
 
 [Bulma/Buefy](https://bulma.io/documentation/) - https://bulma.io/documentation/
 
+[Nuxt](https://nuxtjs.org/)
+
 ## Updates:
 
 03.06.2021 - new [template](https://getting-started-with-ecommerce.netlify.app/homepage-ii)
