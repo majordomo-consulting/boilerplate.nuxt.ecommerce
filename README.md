@@ -6,6 +6,12 @@ For a simpler website, another option is [this html boilerplate](https://github.
 
 In either case, the annual cost for a small-medium sized business to run this application, with a custom domain, should be under $25USD.  Free if you don't add a custom domain.
 
+## ***QUICKEST START***
+
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/majordomo-consulting/boilerplate.nuxt.ecommerce">
+  <img src="https://www.netlify.com/img/deploy/button.svg" title="Deploy to Netlify">
+</a>
+
 ## ***QUICK START***
 
 Steps to creating [this website](https://getting-started-with-ecommerce.netlify.app/) in under 5 minutes:
