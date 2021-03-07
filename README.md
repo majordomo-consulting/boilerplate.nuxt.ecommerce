@@ -68,6 +68,10 @@ Copy and paste the block (include commas) as many times as needed.  These detail
 - /components/logo - link to your logo
 - /components/privacy - generate a [privacy policy](https://www.shopify.ca/tools/policy-generator) then paste it here
 
+### Images
+
+The easiest method to changing the images to your own is to upload them to Google Drive/Flickr/etc, then use the share link within your product data.
+
 ### In Netlify:
 
 3. Netlify Dashboard:
