@@ -6,7 +6,7 @@
         <b-carousel-item v-for="(product, i) in this.$store.state.products" :key="i">
             <section class="hero">
                 <div class="hero-body has-text-centered">
-                    <img :src="product.image">
+                    <img :src="product.image" class="image-rounded-large">
                     <h1 class="title">{{product.title}}</h1>
                     <h1 class="title">{{product.description}}</h1>
                     <h1 class="title">${{product.price}}</h1>

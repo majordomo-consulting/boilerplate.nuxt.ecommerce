@@ -48,12 +48,26 @@
   align-items: center;
 }
 
+@media screen and (max-width: 500px) {
+
+.heading {
+  font-size: 38px;
+  line-height: 1;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+}
+
+@media screen and (min-width: 501px) {
+
 .heading {
   font-size: 100px;
   line-height: 1;
   font-weight: 900;
   text-transform: uppercase;
 }
+}
+
 
 .heading.smaller.center {
   text-align: center;
