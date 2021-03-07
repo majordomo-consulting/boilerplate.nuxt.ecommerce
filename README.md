@@ -1,4 +1,4 @@
-# ecommerce
+# expialadocius
 
 This [PWA](https://getting-started-with-ecommerce.netlify.app/) (Progressive Web Application) is built with NUXT (Vue.js), [Bulma](https://bulma.io) and [Snipcart](https://snipcart.com).  It is an SPA (Single Page Application) built for JAMStack hosting.  The instructions below will detail how to customize, then deploy the site to [Netlify](https://netlify.com).  Netlify offers free SSL certificates, hosting and many other features. However, this application can be deployed in any environment that supports Javascript runtimes (Node.js).
 
@@ -89,6 +89,6 @@ Styles are divided into two sheets - main.scss and default.css.  If modifying Bu
 
 [Nuxt](https://nuxtjs.org/)
 
-## Updates:
+## NEW LAYOUTS:
 
 03.06.2021 - new [template](https://getting-started-with-ecommerce.netlify.app/homepage-ii)
